@@ -1,0 +1,13 @@
+{
+  "block.plateau.weathered_rock": "风化岩",
+  "block.plateau.frost_weathered_rock": "寒冻风化岩",
+  "block.plateau.glacier_ice": "冰川冰",
+  "block.plateau.ice_gravel": "冰渍砂砾",
+  "block.plateau.peat": "泥炭",
+  "block.plateau.plateau_permafrost": "高原冻土",
+  "block.plateau.plateau_soil": "高原荒漠土",
+  "block.plateau.rough_gravel": "粗砂砾",
+  "block.plateau.salt_crust": "盐壳",
+  "item.plateau.spawn_entity_tool": "测试用生成实体工具",
+  "itemGroup.plateau.tab": "高原生态"
+}

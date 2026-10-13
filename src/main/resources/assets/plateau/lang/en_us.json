@@ -1,0 +1,13 @@
+{
+  "block.plateau.weathered_rock": "Weathered Rock",
+  "block.plateau.frost_weathered_rock": "Frost-Weathered Rock",
+  "block.plateau.glacier_ice": "Glacier Ice",
+  "block.plateau.ice_gravel": "Ice Gravel",
+  "block.plateau.peat": "Peat",
+  "block.plateau.plateau_permafrost": "Plateau Permafrost",
+  "block.plateau.plateau_soil": "Plateau Soil",
+  "block.plateau.rough_gravel": "Rough Gravel",
+  "block.plateau.salt_crust": "Salt Crust",
+  "item.plateau.spawn_entity_tool": "Spawn Entity Tool",
+  "itemGroup.plateau.tab": "Plateau"
+}
